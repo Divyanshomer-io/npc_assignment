@@ -71,6 +71,7 @@ start --script custom_mm_strategy.py
 
 ## **Example Output**
 When running the bot, you can expect logs like this:
+
 Volatility: 0.0276 | Trend: 1 | Skew: 0
 Bid Spread: 0.0008 | Ask Spread: 0.0001
 Active orders: 2
